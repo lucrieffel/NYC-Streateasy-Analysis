@@ -13,8 +13,11 @@ Project overview:
 Code and Resources Used
 
 Python Version: 3.7 
+
 Packages: pandas, lumpy, sklearn, matplotlib, and seaboarn.
+
 Streeteasy & codeacademy dataset github link: https://github.com/Codecademy/datasets/tree/master/streeteasy
+
 Codeacademy multiple linear regression lesson link: https://www.codecademy.com/paths/data-science/tracks/dspath-supervised/modules/multiple-linear-regression/lessons/multiple-linear-regression-streeteasy/exercises/review
 
 
