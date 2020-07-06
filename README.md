@@ -1,4 +1,4 @@
-Data science New York City rent estimator: 
+Data science New York City rent analysis,
 Project overview: 
 
 -Using a dataset provided by streateasy and code academy, created various pivot tables, bar graphs, and scatter plots that highlight important trends in the dataset.
