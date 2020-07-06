@@ -7,11 +7,11 @@ Project overview:
 
 -Used a multiple linear regression model to predict the price of rent given multiple independent variables such as square footage, bedrooms, and bathrooms
 
--Created a function that assigned a score out of 100 for apartments that contained items that are typically considered essentials. Our score function added 40 points if the apartment had an elevator, 20 points for a dishwasher, 30 for an in unit washer and dryer, and 10 points for a doorman.
+-Created a function that assigned a score out of 100 for apartments that contained items that are typically considered essentials. Our score function added 40 points if the apartment had an elevator, 20 points for a dishwasher, 30 for an in-unit washer and dryer, and 10 points for a doorman.
 
 -Optimized the dataset for a potential apartment renter looking for a 1 bedroom  or studio apartment to get an ideal price within the borough and neighbored they are looking for. 
 
--Calculated the mean absolute error  for each borough to evaluate the accuracy of our model.
+-Calculated the mean absolute error  for each borough to evaluate the accuracy of our multiple linear regression model.
 
 
 
@@ -19,7 +19,7 @@ Code and Resources Used
 
 Python Version: 3.7 
 
-Packages: pandas, lumpy, sklearn, matplotlib, and seaboarn.
+Packages: pandas, lumpy, sklearn, matplotlib, and seaborn.
 
 Streeteasy & codeacademy dataset github link: https://github.com/Codecademy/datasets/tree/master/streeteasy
 
