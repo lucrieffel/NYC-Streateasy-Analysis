@@ -19,7 +19,7 @@ Code and Resources Used
 
 Python Version: 3.7 
 
-Packages: pandas, lumpy, sklearn, matplotlib, and seaborn.
+Packages: pandas, numpy, sklearn, matplotlib, and seaborn.
 
 Streeteasy & codeacademy dataset github link: https://github.com/Codecademy/datasets/tree/master/streeteasy
 
