@@ -1,7 +1,7 @@
 Data science New York City rent analysis,
 Project overview: 
 
--Using a dataset provided by streateasy and code academy, created various pivot tables, bar graphs, and scatter plots that highlight important trends in the dataset.
+-Using a dataset provided by Streateasy and Codecademy, created various pivot tables, bar graphs, and scatter plots that highlight important trends in the dataset.
 
 -Created a tool that outlines the cost of rent in the borough’s Queens, Manhattan, and Brooklyn 
 
