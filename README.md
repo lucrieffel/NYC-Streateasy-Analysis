@@ -14,6 +14,8 @@ Project overview:
 -Calculated the mean absolute error  for each borough to evaluate the accuracy of our multiple linear regression model.
 
 
+Written report link: https://docs.google.com/document/d/1i_WfkFtnMTsztDs3VU7WqGV7Q1YNiF2nqYsVxQHSbXs/edit?usp=sharing
+
 
 Code and Resources Used
 
@@ -25,4 +27,4 @@ Streeteasy & codeacademy dataset github link: https://github.com/Codecademy/data
 
 Codeacademy multiple linear regression lesson link: https://www.codecademy.com/paths/data-science/tracks/dspath-supervised/modules/multiple-linear-regression/lessons/multiple-linear-regression-streeteasy/exercises/review
 
-Written report link: https://docs.google.com/document/d/1i_WfkFtnMTsztDs3VU7WqGV7Q1YNiF2nqYsVxQHSbXs/edit?usp=sharing
+
